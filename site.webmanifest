@@ -1,0 +1,10 @@
+{
+  "name": "Sunrise Cafe & Bakery",
+  "short_name": "Sunrise Cafe",
+  "description": "Artisan bakery & brunch cafe in Austin, TX",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#E8913A",
+  "icons": []
+}
